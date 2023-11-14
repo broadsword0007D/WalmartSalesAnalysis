@@ -4,7 +4,7 @@ body {
     margin: 50px;
     background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNkw9WSC4niEe3_0rNlEzGewKOs8JDO51KNng5QuRTQ&s');
     background-repeat: no-repeat;
-    background-size: cover
+    background-size: cover;
 }
 
 form {
